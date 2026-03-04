@@ -2,8 +2,6 @@
 
 ## example
 
-<<<<<<< HEAD
 ## Something
-=======
+
 ## login
->>>>>>> feat/login
