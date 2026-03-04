@@ -5,3 +5,7 @@
 ## Something
 
 ## login
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
